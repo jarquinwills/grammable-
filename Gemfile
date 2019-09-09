@@ -64,3 +64,13 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 group :development, :test do
   gem 'rspec-rails', '~> 3.5'
 end
+
+gem 'popper_js', '~> 1.14.5'
+
+gem 'jquery-rails'
+
+gem 'sprockets-rails', :require => 'sprockets/railtie'
+
+gem 'bootstrap', '~> 4.3.1'
+
+gem 'simple_form'
