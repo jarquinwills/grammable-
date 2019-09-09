@@ -74,3 +74,5 @@ gem 'sprockets-rails', :require => 'sprockets/railtie'
 gem 'bootstrap', '~> 4.3.1'
 
 gem 'simple_form'
+
+gem 'devise'
